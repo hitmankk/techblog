@@ -1,0 +1,22 @@
+{
+  "name": "blog-part",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "kushalkant",
+  "license": "ISC",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.15.0",
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm i express.js nodemon express-fileupload"
+  },
+  "devDependencies": {}
+}
